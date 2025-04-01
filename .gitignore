@@ -1,0 +1,8 @@
+
+# Ignorar archivos de compilación y configuración de NetBeans
+nbproject/private/
+nbproject/
+build/
+dist/
+manifest.mf
+build.xml
